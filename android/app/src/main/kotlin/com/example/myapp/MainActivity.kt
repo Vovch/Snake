@@ -1,4 +1,4 @@
-package com.example.myapp
+package com.vovch.supersnake
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'snake_game.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const SuperSnake());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class SuperSnake extends StatelessWidget {
+  const SuperSnake({super.key});
 
   @override
   Widget build(BuildContext context) {
